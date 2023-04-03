@@ -8,15 +8,15 @@
 
 ## MAIN GUI
 
-![MAIN GUI](https://www.codechefmuj.com/rpgen/2022-08-08%2022_59_01-RPGen%20Password%20Manager.jpg)
+![MAIN GUI](https://samunicode.github.io/MyFileHosting/Music-Player-Media/RPGen-Password-Manager.jpg)
 
 ## VIEW DATA WINDOW
 
-![VIEW DATA](https://www.codechefmuj.com/rpgen/2022-08-09%2015_21_41-Saved%20Credentials.jpg)
+![VIEW DATA](https://samunicode.github.io/MyFileHosting/Music-Player-Media/Saved-Credentials.jpg)
 
 ## ABOUT WINDOW
 
-![ABOUT ME](https://www.codechefmuj.com/rpgen/2022-08-09%2015_22_05-About%20Developer.jpg)
+![ABOUT ME](https://samunicode.github.io/MyFileHosting/Music-Player-Media/About-Developer.jpg)
 ## 🔗 Reach out to me at:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.sameerchauhan.in)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cbsameer/)
